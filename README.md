@@ -20,4 +20,4 @@ https://github.com/JDAI-CV/FaceX-Zoo/tree/main    FaceX
 https://github.com/ahaliassos/RealForensics/tree/main      RealForensics
 https://paperswithcode.com/paper/leveraging-real-talking-faces-via-self#code
 
-
+https://www.kaggle.com/code/sathvikvadarevu/cnn-rnn-based-fullcode#Deep-Fake-Video-Classification  CNN
