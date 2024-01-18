@@ -1,5 +1,5 @@
 # DeepFake-Factor
-*[etc](#etc)
+* [etc](#etc)
 
 
 
